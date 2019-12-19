@@ -1,0 +1,63 @@
+{
+    "name": "Moblico",
+    "description": "There are now more internet connected devices in the US than there are Americans. With over 2 million applications available for download to those devices, it is increasingly challenging to get your application noticed. But it\u2019s not just about getting ...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1583-moblico.jpg",
+    "tags": [
+        "agencies",
+        "baas",
+        "coupons",
+        "deals",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/moblico\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Moblico",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1583-moblico.jpg",
+            "humanURL": "http:\/\/moblico.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moblico-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/moblico-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/moblico"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/moblico"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.moblico.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Moblico"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/moblico"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/moblico.com"
+        }
+    ]
+}
